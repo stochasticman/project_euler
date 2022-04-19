@@ -1,2 +1,5 @@
 # project_euler
-Code utilized to solve Project Euler Problems
+Problem Descriptions and Solutions in jupyter notebook format
+
+# Dependencies
+python=3.9
